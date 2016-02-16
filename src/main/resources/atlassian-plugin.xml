@@ -1,0 +1,9 @@
+<atlassian-plugin key="ch.fuchsnet.spring" name="russo-bitbucket" plugins-version="2">
+    <plugin-info>
+        <description>This is a SSO plugin using a httpd set header for Atlassian Bitbucket Server.</description>
+        <version>1.0</version>
+        <vendor name="Fuchsnet" url="http://www.fuchsnet.ch"/>
+        <param name="plugin-icon">images/pluginIcon.png</param>
+        <param name="plugin-logo">images/pluginLogo.png</param>
+    </plugin-info>
+</atlassian-plugin>
