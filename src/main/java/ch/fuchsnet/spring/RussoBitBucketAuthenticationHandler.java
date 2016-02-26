@@ -25,20 +25,9 @@ Copyright (C) 2014  Christian Loosli
 Loosely based on the example by Michael Heemskerk available at
 https://bitbucket.org/mheemskerk/stash-auth-plugin-example
 
-This library is free software; you can redistribute it and/or
-modify it under the terms of the GNU Lesser General Public
-License as published by the Free Software Foundation; either
-version 2.1 of the License, or (at your option) any later version.
-
-This library is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-Lesser General Public License for more details.
-
-You should have received a copy of the GNU Lesser General Public
-License along with this library; if not, write to the Free Software
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
- */
+This software may be modified and distributed under the terms
+of the MIT license.  See the COPYING file for details.
+*/
 
 /**
  * Implementation of HttpAuthenticationHandler that uses the Apache set

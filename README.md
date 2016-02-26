@@ -12,7 +12,7 @@ This plugin is for BitBucket Server. For the older stash product see my GitHub a
 
 ## License 
 
-This software is distributed under the GNU Lesser General Public License 2.1. See COPYING for details. 
+This software is distributed under the MIT License. See COPYING for details. 
 
 ## Install
 There are a few things you need in order to install this plugin:
